@@ -1,0 +1,2 @@
+Basic: https://smoljames.com/notes/javascript
+Semi: https://xuankhoatu.com/blogs/uncommon-javascript-notes
